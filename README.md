@@ -1,2 +1,4 @@
-# testing_practice
-Testing Practice
+FCC Test Challenge Prototype 
+============================
+
+QA with mocha & chai
